@@ -6,7 +6,7 @@ Alteração Gabriel
 // Declarar uma variável chamada `myvar`, sem valor.
 ?
 
-if(OI == YES)
+if(OI == NO)
 {
   console.log('AUUU');
 }
