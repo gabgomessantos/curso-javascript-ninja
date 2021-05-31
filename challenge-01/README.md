@@ -6,6 +6,11 @@ Alteração Gabriel
 // Declarar uma variável chamada `myvar`, sem valor.
 ?
 
+if(OI == NO)
+{
+  console.log('AUUU');
+}
+
 // Após declarada, atribua o valor 10 à variável `myvar`.
 ?
 
