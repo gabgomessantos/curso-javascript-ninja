@@ -1,5 +1,7 @@
 # Desafio Semana #1
 
+Alteração Gabriel
+
 ```js
 // Declarar uma variável chamada `myvar`, sem valor.
 ?
