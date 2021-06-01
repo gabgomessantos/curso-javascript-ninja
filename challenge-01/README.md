@@ -1,21 +1,14 @@
 # Desafio Semana #1
 
-Alteração Gabriel
-
 ```js
 // Declarar uma variável chamada `myvar`, sem valor.
-?
-
-if(OI == NO)
-{
-  console.log('AUUU');
-}
+var myvar;
 
 // Após declarada, atribua o valor 10 à variável `myvar`.
-?
+myvar = 10;
 
 // Declare uma nova variável chamada `soma`, e adicione uma instrução somando os valores 15 e 8.
-?
+var soma = 15 + 8;
 
 // Atribua à variável `soma` todo o valor dela, somando 1, usando o operador de soma abreviado.
 ?
