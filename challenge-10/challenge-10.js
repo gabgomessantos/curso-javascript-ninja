@@ -36,7 +36,10 @@ parâmetro a ela é válido, ou seja, se ele é igual a '+', '-', '*', '/' ou
 Caso contrário, "false".
 - O desafio é fazer o retorno sem usar "if" ou "switch".
 */
-// ?
+
+function isOperatorValid(operator) {
+
+}
 
 /*
 Agora vamos criar a calculadora.
@@ -50,7 +53,10 @@ parâmetros;
 operador passado para a função "calculator", e passando para esse método
 os dois parâmetros da função de retorno de "calculator".
 */
-// ?
+
+function calculator(operator) {
+
+}
 
 /*
 Crie uma função chamada "showOperationMessage" que recebe três parâmetros:
