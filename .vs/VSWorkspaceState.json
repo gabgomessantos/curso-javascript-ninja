@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\challenge-11",
     "\\challenge-12",
     "\\challenge-15",
     "\\challenge-16",
@@ -9,8 +8,9 @@
     "\\challenge-19",
     "\\challenge-20",
     "\\challenge-21",
-    "\\challenge-22"
+    "\\challenge-22",
+    "\\challenge-23"
   ],
-  "SelectedNode": "\\challenge-22\\challenge-22.js",
+  "SelectedNode": "\\challenge-23\\challenge-23.js",
   "PreviewInSolutionExplorer": false
 }
